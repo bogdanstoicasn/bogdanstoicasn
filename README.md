@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a Computer Science and Engineering student from Bucharest, Romania.
+
+- 📫 How to reach me: bogdanstoicasn@yahoo.com
 <!--
 **bogdanstoicasn/bogdanstoicasn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
